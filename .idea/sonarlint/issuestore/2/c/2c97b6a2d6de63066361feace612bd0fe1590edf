@@ -1,0 +1,6 @@
+
+dsquid:S1068#"MRemove this unused "MY_PERMISSIONS_REQUEST_READ_FINE_LOCATION" private field.(¯á¢ª
+usquid:S1450,"^Remove the "mLastUpdateTime" field and declare it as a local variable in the relevant methods.(½ÁÃˆ
+gsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(ÓÃýÂûÿÿÿÿ
+gsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(—³¹¡ÿÿÿÿÿ
+hsquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(ÓÃýÂûÿÿÿÿ
